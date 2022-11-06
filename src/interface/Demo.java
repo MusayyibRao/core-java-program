@@ -1,4 +1,4 @@
-package interface1;
+package interface;
 
 public interface Demo {
 	
