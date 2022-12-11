@@ -26,7 +26,7 @@ public class HashMapDemo {
 System.out.println("-------------------------------------------------------");		
 
 /*
- * in hashMap we can store only one null and n number of null value    
+ * in hashMap we can store only one null key and n number of null value    
  */
 		
 		hm.put(null, null);

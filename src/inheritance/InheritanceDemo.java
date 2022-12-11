@@ -26,7 +26,7 @@ class A extends InheritanceDemo
 
 	public static  void m1()
 	{
-					System.out.println("this override method...... 1");
+  System.out.println("this override method...... 1");
 			
 		
 		
