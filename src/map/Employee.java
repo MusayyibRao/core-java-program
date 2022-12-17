@@ -40,26 +40,16 @@ public int getEmpId()
 
 }
 
-
 public void setEmpName(String empName)
 {
    this.empName=empName;
 }
 
-
-
-
 public String getEmpName()
 {
-
   return empName;
 
 }
-
-
-
-
-
 
 @Override
 public int hashCode() {
